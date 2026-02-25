@@ -51,7 +51,7 @@ Display and download
 
 The abstract pages for articles that include ancillary files will
 include additional links below the usual article download links. See,
-for example, [arXiv:0811.2625v2](https://arxiv.org/abs/0811.2625v2). There is also a
+for example, [arXiv:0811.2625v3](https://arxiv.org/abs/0811.2625v3). There is also a
 separate page that lists all ancillary files with greater detail than
 there is room for on the abstract page. See, for example, [ancillary
 files for arXiv:0905.2326v1](ancillary_files.md). In both cases there
